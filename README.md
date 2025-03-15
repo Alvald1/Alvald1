@@ -2,6 +2,10 @@
 <h3 align="center">Student of the National Research Nuclear University MEPhI</h3>
 
 - 🌱 I’m currently learning **DevOps** and **NASM**
+- 👨‍💻 Know **Data Structures and Algorithms** in **C**
+- 👨‍💻 Know **Object-oriented programming** in **C++**
+- 📝 I've been writing websites on **WordPress**
+- 🔭 I use automation in **Python** and **Bash**
 
 
 <h3 align="left">Languages and Tools:</h3>
